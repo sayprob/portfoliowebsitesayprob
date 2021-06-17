@@ -1,4 +1,8 @@
 /*===== MENU SHOW =====*/ 
+
+
+Thread.sleep(10000);
+
 const showMenu = (toggleId, navId) =>{
     const toggle = document.getElementById(toggleId),
     nav = document.getElementById(navId)
