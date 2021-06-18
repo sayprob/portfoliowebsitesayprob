@@ -211,7 +211,7 @@ img{
 }
 
 /* ===== ABOUT =====*/
-.about__container{
+.about__container
     align-items: center;
     justify-items: center;
     row-gap: 2rem;
